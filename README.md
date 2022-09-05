@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Evgeniy Bondarenko</h1>
 <h3 align="center">Node js Full Stack Developer</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://uprostim.com/wp-content/uploads/2021/03/image119-5.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://uprostim.com/wp-content/uploads/2021/03/image119-5.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
